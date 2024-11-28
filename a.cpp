@@ -1,9 +1,4 @@
-#include <iostream>
-#include <string>
-#include <list>
-#include <algorithm>
-#include <fstream>
-
+#include<bits/stdc++.h>
 using namespace std;
 
 class SinhVien {
